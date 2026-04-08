@@ -149,6 +149,7 @@ Build your own TUI apps with these frameworks.
 
 - [cmatrix](https://github.com/abishekvashok/cmatrix) - Matrix-style terminal screensaver
 - [asciiquarium](https://github.com/cmatsuoka/asciiquarium) - Aquarium animation in ASCII art
+- [moody](https://github.com/dinakars777/moody) - Your MacBook has feelings - hardware events trigger personality responses
 - [sl](https://github.com/mtoyoda/sl) - Steam locomotive runs across your terminal
 - [cowsay](https://github.com/piuccio/cowsay) - Configurable talking cow
 - [fortune](https://github.com/shlomif/fortune-mod) - Random quotes and sayings
