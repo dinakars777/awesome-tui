@@ -79,6 +79,7 @@ Build your own TUI apps with these frameworks.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing fast terminal UI for git
 - [tig](https://github.com/jonas/tig) - Text-mode interface for git
 - [gh-dash](https://github.com/dlvhdr/gh-dash) - GitHub dashboard in your terminal
+- [agenttrace](https://github.com/luoyuctl/agenttrace) - Terminal dashboard for inspecting AI coding agent session cost, token usage, latency, and failures
 
 ### Git & Version Control
 
